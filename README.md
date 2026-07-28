@@ -112,5 +112,6 @@ python app.py
 ---
 
 ## Author
+ELAMATHI S
 
 N-Queens Solver using Backtracking Algorithm.
